@@ -55,3 +55,5 @@ print(l1 is l2)
 l2 = l1
 print(l1 is l2)
 print(l2, id(l2))
+
+print('hi how are you')
