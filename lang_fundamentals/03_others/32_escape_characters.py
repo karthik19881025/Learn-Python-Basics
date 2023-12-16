@@ -22,3 +22,9 @@ print('durga\'s software solutions provide trainings on \"Python\"')
 
 print('durga\'s software solutions provide trainings on \"Python\" in chennai\\hyderabad')
 print('durga\'s software solutions provide trainings on \f\"Python\" in chennai\\hyderabad')
+
+print('''
+durga
+soft
+solution
+''')
