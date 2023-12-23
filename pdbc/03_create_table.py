@@ -37,5 +37,5 @@ def retrieve_records():
 
 
 # create_table()
-insert_records()
+# insert_records()
 retrieve_records()
