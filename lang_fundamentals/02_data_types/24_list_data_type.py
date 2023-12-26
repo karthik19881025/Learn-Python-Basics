@@ -3,7 +3,7 @@
 List:
 
 1. insertion order is preserved
-2. call allow to hold duplicate objects (elements)
+2. can allow to hold duplicate objects (elements)
 3. represented within [ ] and values should be separated by ,
 4. heterogeneous objects are allowed
 5. mutable
